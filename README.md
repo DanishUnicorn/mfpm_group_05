@@ -1,9 +1,9 @@
-NFOK17002U - Molecular and Functional Properties of Milk Course Notes 
-- Welcome to the NFOK17002U Course Notes repository! 
+NFOK17002U - Molecular and Functional Properties of Milk Group Project 
+- Welcome to the NFOK17002U group project repository! 
 This repository is created for students enrolled in the NFOK17002U course at the University of Copenhagen, covering the period from February 2025 to April 2025.
 
 Overview 
-- This repository contains notes and materials relevant to the course. It is intended as a resource for students to enhance their learning experience.
+- This repository contains project_05 in the course. It is intended as a resource for students to enhance their learning experience.
 
 Usage 
 - The content within this repository is free to use for everyone.
